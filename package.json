@@ -1,0 +1,33 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "Node Axios ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riturajanand91/Node-Axios.git"
+  },
+  "keywords": [
+    "axios",
+    "rest",
+    "api",
+    "node"
+  ],
+  "author": "Rituraj Anand",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riturajanand91/Node-Axios/issues"
+  },
+  "homepage": "https://github.com/riturajanand91/Node-Axios#readme"
+}
